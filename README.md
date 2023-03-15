@@ -32,3 +32,4 @@ The data contains the information about the Formula1 sport,
 2. Dominant Teams
 
 ### Solution Architecture:
+![image](https://user-images.githubusercontent.com/97723040/225224385-d0a5dc2b-ea32-4357-b879-87fbaa6b4522.png)
