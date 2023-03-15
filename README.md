@@ -8,9 +8,13 @@ The data contains the information about the Formula1 sport,
 
 ### Data Ingestion Requirements: 
 1.Ingested data must have the schema applied.
+
 2.Ingested data must have audit columns
+
 3.Ingested data must be stored in columnar format.
+
 4.Must be able to analyze the ingested data via SQL
+
 5.Ingestion logic must be handle incremental load.
 
 ### Data Transformation Requirements: 
